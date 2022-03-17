@@ -6,6 +6,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="author" content="Richez Bradley"/>
+    <meta name="description" content="Jeu à deux joueurs au tour par tour en lançant un dé. Chaque joueur a un score par round et un global.
+                                      Si l'on obtient un 1 alors il passe son tour et son score du round est remis à 0. Le premier a 100 gagne la partie"/>
     
     <!--FONT LATO-->
     <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
